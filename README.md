@@ -1,3 +1,7 @@
+
+Project Ex 1: Summer Products and Sales in E-commerce on Wish: 
+https://www.kaggle.com/datasets/jmmvutu/summer-products-and-sales-in-ecommerce-wish
+
 DATASET
 This dataset contains product listings as well as products ratings and sales performance, which you would not find in other datasets.
 With this, you can finally start to look for correlations and patterns regarding the success of a product and the various components.
